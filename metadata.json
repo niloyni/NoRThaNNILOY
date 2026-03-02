@@ -1,0 +1,5 @@
+{
+  "name": "Pablo: The Physics Specialist",
+  "description": "A brilliant and enthusiastic Physics Specialist AI tutor who simplifies complex laws of the universe using the Feynman Technique. Supports English and Bengali voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
